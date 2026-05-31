@@ -3,6 +3,7 @@ This mod spawn:
 * disabled
 * unused
 * special
+
 planets to generate random.
 
 I recommend a galaxy reset for using this mod.

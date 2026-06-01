@@ -1,7 +1,7 @@
 # Spore_hidden_planets
 This mod spawn:
 * disabled
-* unused
+* unused + GA unused
 * special
 
 planets to generate random.

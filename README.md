@@ -1,11 +1,10 @@
 # Spore_hidden_planets
 ### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_hidden_planets?style=flat-square&color=d81b60&icon=github)
 
-This mod spawn:
-* disabled
-* unused + GA unused
-* special
+This mod allows the galaxy to randomly generate:
 
-planets to generate random.
+* Disabled planets
+* Unused planets + GA unused planets
+* Special planets
 
-I recommend a galaxy reset for using this mod.
+A galaxy reset is recommended before using this mod.

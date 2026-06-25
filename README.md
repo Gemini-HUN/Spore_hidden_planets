@@ -7,4 +7,4 @@ Discover planets that were hidden from the galaxy generation system, including u
 * Unused planets + GA unused planets
 * Special planets
 
-A galaxy reset is recommended before using this mod.
+**A galaxy reset is recommended before using this mod.**

@@ -12,6 +12,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 
 ## Compatible with
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
-* [Spore_T3_Earth](
+**OR**
+* [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
 
 **A galaxy reset is recommended before using this mod.**

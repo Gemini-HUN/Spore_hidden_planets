@@ -10,4 +10,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Unused planets + GA unused planets
 * Special planets
 
+## Compatible with
+* 
+
 **A galaxy reset is recommended before using this mod.**

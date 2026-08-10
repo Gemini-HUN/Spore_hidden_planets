@@ -11,6 +11,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Special planets
 
 ## Compatible with
-* [Gemini_proto_solar_planets](
+* [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
+* [ggggg]
 
 **A galaxy reset is recommended before using this mod.**

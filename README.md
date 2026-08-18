@@ -13,7 +13,8 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Special planets
 
 I dropped the scripts into the right folders so the game should generate them randomly (with the vanilla ones)
-The mod contain 1000~ planet
+
+The mod contain **1000~ planet**
 
 ## Compatible with
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)

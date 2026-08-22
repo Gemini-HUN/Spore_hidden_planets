@@ -20,6 +20,7 @@ The mod contain **1000~ planets**
 ## Compatible with
 * [Gemini_proto_solar_planets](https://github.com/Gemini-HUN/Gemini_proto_solar_planets)
 * [Spore_T3_Earth](https://github.com/Gemini-HUN/Spore_T3_Earth)
+* [Spore_Spiralplanet_crashedship](https://github.com/Gemini-HUN/Spore_Spiralplanet_crashedship)
 * Other unique planet mods
 
 **A galaxy reset is recommended before using this mod.**

@@ -12,6 +12,7 @@ I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/)
 * Disabled planets
 * Unused planets + GA unused planets
 * Special planets
+* Home planets
 
 I dropped the scripts into the right folders so the game should generate them randomly (with the vanilla ones)
 

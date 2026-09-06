@@ -3,7 +3,7 @@
 Discover planets that were hidden from the galaxy generation system in space stage, including unused, disabled, special, and Galactic Adventures worlds.
 
 Tested by **Moon** from Discord. <br>
-[Images](https://github.com/Gemini-HUN/Spore_hidden_planets/tree/main/Images) from planets by **Moon**.
+You can check his images and source [Images](https://github.com/Gemini-HUN/Spore_hidden_planets/tree/main/Images) too!
 
 ## How to install mods?
 I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.

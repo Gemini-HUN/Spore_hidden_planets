@@ -1,5 +1,5 @@
 # Spore_hidden_planets
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets/latest?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: !(https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_hidden_planets/latest?style=flat-square&color=d81b60&logo=github)
 Discover planets that were hidden from the galaxy generation system in space stage, including unused, disabled, special, and Galactic Adventures worlds.
 
 Tested by **Moon** from Discord. <br>
